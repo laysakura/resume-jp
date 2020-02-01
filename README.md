@@ -171,3 +171,9 @@ Sakashoでは隔週のリリース毎に利用者にリリースノートを配�
 | Twitter  | https://twitter.com/laysakura      |
 | Qiita    | https://qiita.com/laysakura        |
 | Booklog  | https://booklog.jp/users/laysakura |
+
+## 連絡先
+
+中谷 翔 <lay.sakura@gmail.com>
+
+その他各種SNSでのご連絡でもOKです。
