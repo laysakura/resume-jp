@@ -29,6 +29,7 @@
     - **MIPS アセンブリ**: 習熟度中
         - [『コンピュータの構成と設計 第5版』（パタヘネ本）の演習問題の解答をブログで公開中](https://laysakura.github.io/2020/01/13/Patterson-Hennessy-5th-Excersise02/)
     - **x86_64 アセンブリ**: 習熟度低
+        - [ベクトル計算のSSE拡張は深堀りした](https://laysakura.github.io/2012/01/06/sse-8flops-clock/)
 - RDBMS
     - **MySQL (InnoDB)**: 習熟度高
         - ストレージエンジンの実装にも習熟:
