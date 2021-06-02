@@ -23,8 +23,8 @@
 
 - プログラミング言語
     - **Rust**: 習熟度高
+        - 代表作: [apllodb](https://github.com/apllodb/apllodb)
         - [『Rustではじめるデータ構造とアルゴリズム』をブログで連載中](https://laysakura.github.io/2019/12/22/rust-DataStructures-Algorithm-BinaryTree/) （停止中...）
-        - 上述のCMS用のRDBMS開発はRustフルスクラッチで行っている。
     - **Ruby (Rails)**: 習熟度高
     - **Scala (Finagle)**: 習熟度高
     - **C**: 習熟度高
