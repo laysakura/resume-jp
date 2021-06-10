@@ -65,7 +65,7 @@
     - CCPM
     - Velocity計測
 
-ある会社様にコーチングした際の資料: [開発プロセス・スケジューリング基礎](https://docs.google.com/document/d/1qo_CV2dmYtQbSdlE51hbtYOsBXQCy4vHLKpYfcapDqA/edit#)
+ある会社様にコーチングした際の資料: [開発プロセス・スケジューリング基礎](https://docs.google.com/document/d/1qo_CV2dmYtQbSdlE51hbtYOsBXQCy4vHLKpYfcapDqA)
 
 ## 職務経歴・学歴
 
