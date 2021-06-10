@@ -42,7 +42,9 @@
             - [MySQLite: SQLiteデータベースを読み書きするMySQLストレージエンジン](https://laysakura.github.io/2014/02/18/mysqlite/)
             - [MySQL 5.6 で動くストレージエンジン・テンプレート](https://laysakura.github.io/2013/02/10/mysql5.6-storage-engine-template/)
     - **SQLite**: 習熟度高
-    - **PostgreSQL**: 習熟度低
+    - **PostgreSQL**: 習熟度？
+        - 運用・利用経験は少ないが、エクステンション作成は経験あり:
+            - [RustでPostgreSQLのエクステンションを開発するためのフレームワーク pgx を使った暗号AVG実装](https://github.com/LayerXcom/anonify/pull/621)
 
 ## スキルセット: プロジェクトマネージメント
 
