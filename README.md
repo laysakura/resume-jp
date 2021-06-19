@@ -1,10 +1,6 @@
 # 職務経歴書
 
-副業募集のための公開職務経歴書です。
-
-## 募集職種
-
-現在積極的に募集中な案件はありません。
+公開職務経歴書です。
 
 ## スキルセット: ソフトウェア開発
 
@@ -12,19 +8,24 @@
 
 業務経験は以下の通り。
 
-- **Webサーバサイドアプリケーションやその基盤の開発・運用**
-  - ソーシャルゲームのように高負荷・高頻度トランザクションのシステムの基幹部分を、インフラ層まで含めて高速・高信頼に作るための設計からリリースまでを行える。また、金融システムのように複雑なドメインに関しても、ドメインエキスパートと対話しながらモデリングし、それをクリーンアーキテクチャでコードに落とし込むことができる。
 - **IoTデバイスの遠隔統合管理プラットフォームの新デバイス対応に関する研究開発**
   - 守秘義務あり。
 - **入稿者にデータベースの知識を求めない、情報整理のトライ・アンド・エラー可能なRDBMS開発**
   - [apllodb](https://github.com/apllodb/apllodb) にて開発。
+- **[Intel SGX](https://www.intel.co.jp/content/www/jp/ja/architecture-and-technology/software-guard-extensions.html) を基盤とした、プライバシー保護技術基盤の開発**
+  - [Anonify](https://github.com/LayerXcom/anonify) へのコントリビューション。
+- **Webサーバサイドアプリケーションやその基盤の開発・運用**
+  - ソーシャルゲームのように高負荷・高頻度トランザクションのシステムの基幹部分を、インフラ層まで含めて高速・高信頼に作るための設計からリリースまでを行える。また、金融システムのように複雑なドメインに関しても、ドメインエキスパートと対話しながらモデリングし、それをクリーンアーキテクチャでコードに落とし込むことができる。
 
 以下、各種特定技術の習熟度を記載。
 
 - プログラミング言語
     - **Rust**: 習熟度高
-        - 代表作: [apllodb](https://github.com/apllodb/apllodb)
-        - [『Rustではじめるデータ構造とアルゴリズム』をブログで連載中](https://laysakura.github.io/2019/12/22/rust-DataStructures-Algorithm-BinaryTree/) （停止中...）
+        - 一人で制作しているもの
+            - フルスクラッチのRDBMS: [apllodb](https://github.com/apllodb/apllodb)
+            - 暗号化・シリアライズライブラリのOSS: [serde-encrypt](https://github.com/laysakura/serde-encrypt)
+        - チーム開発しているもの
+            - プライバシー保護基盤: [Anonify](https://github.com/LayerXcom/anonify)
     - **Ruby (Rails)**: 習熟度高
     - **Scala (Finagle)**: 習熟度高
     - **C**: 習熟度高
