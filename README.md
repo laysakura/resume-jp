@@ -2,50 +2,57 @@
 
 公開職務経歴書です。
 
-## スキルセット: ソフトウェア開発
+## スキルセット: ソフトウェア研究開発
 
-大学・大学院の専門は分散並列処理。データストア（特にRDBMS）・OSなど低レイヤなシステム全般が興味。コンピュータサイエンスに関する分野は一通り抑えている。
+大学・大学院の専門は分散並列処理。大学院修了以降もプライベートの時間や副業などで研究開発活動を継続。
+データストア（特にRDBMS）・OSなど低レイヤなシステム全般が興味。コンピュータサイエンスに関する分野は一通り抑えている。
 
-業務経験は以下の通り。
+### 学会発表等
 
-- **IoTデバイスの遠隔統合管理プラットフォームの新デバイス対応に関する研究開発**
-  - 守秘義務あり。
-- **入稿者にデータベースの知識を求めない、情報整理のトライ・アンド・エラー可能なRDBMS開発**
-  - [apllodb](https://github.com/apllodb/apllodb) にて開発。
-- **[Intel SGX](https://www.intel.co.jp/content/www/jp/ja/architecture-and-technology/software-guard-extensions.html) を基盤とした、プライバシー保護技術基盤の開発**
-  - [Anonify](https://github.com/LayerXcom/anonify) へのコントリビューション。
-- **Webサーバサイドアプリケーションやその基盤の開発・運用**
-  - ソーシャルゲームのように高負荷・高頻度トランザクションのシステムの基幹部分を、インフラ層まで含めて高速・高信頼に作るための設計からリリースまでを行える。また、金融システムのように複雑なドメインに関しても、ドメインエキスパートと対話しながらモデリングし、それをクリーンアーキテクチャでコードに落とし込むことができる。
+- **中谷翔**, Ting Chen, 田浦健次朗, "ストリーミングデータを扱うワークフローの外部モジュールの扱いに着目した低遅延実行", SWoPP2013
+- Jun Nakashima, **Sho Nakatani**, and Kenjiro Taura, "Design and Implementation of a Customizable Work Stealing Scheduler", ROSS2013
+- 中島潤, **中谷翔**, 田浦健次朗, "スケジューリング方針をカスタマイズ可能な軽量スレッド処理系の提案", SWoPP2012
+- **中谷翔**, Ting Chen, 田浦健次朗, "ワークフローアプリケーション基盤としての並列DBの性能評価", SWoPP2012
+- **中谷翔**, 中島潤, 田浦健次朗, 近山隆, "再帰的に生成したタスクに対するデータ局所性を考慮するスケジューラの実装と評価", 情報処理学会 第74回全国大会
+(学生奨励賞，推奨卒業論文認定)
 
-以下、各種特定技術の習熟度を記載。
+### 表彰等
 
-- プログラミング言語
-    - **Rust**: 習熟度高
-        - 一人で制作しているもの
-            - フルスクラッチのRDBMS: [apllodb](https://github.com/apllodb/apllodb)
-            - 暗号化・シリアライズライブラリのOSS: [serde-encrypt](https://github.com/laysakura/serde-encrypt)
-        - チーム開発しているもの
-            - プライバシー保護基盤: [Anonify](https://github.com/LayerXcom/anonify)
-    - **Ruby (Rails)**: 習熟度高
-    - **Scala (Finagle)**: 習熟度高
-    - **C**: 習熟度高
-    - **Python**: 習熟度中
-    - **C++**: 習熟度低〜中 (C++11以降のキャッチアップが弱い)
-    - **RISC-V アセンブリ**: 習熟度中
-        - 趣味と実益を兼ねて自作CPUをやっている。[ゴール成果物やロードマップをブログで公開している。](https://laysakura.github.io/2020/01/31/handcraft-cpu-os-1/)
-    - **MIPS アセンブリ**: 習熟度中
-        - [『コンピュータの構成と設計 第5版』（パタヘネ本）の演習問題の解答をブログで公開中](https://laysakura.github.io/2020/01/13/Patterson-Hennessy-5th-Excersise02/)
-    - **x86_64 アセンブリ**: 習熟度低
-        - [ベクトル計算のSSE拡張は深堀りした](https://laysakura.github.io/2012/01/06/sse-8flops-clock/)
-- RDBMS
-    - **MySQL (InnoDB)**: 習熟度高
-        - ストレージエンジンの実装にも習熟:
-            - [MySQLite: SQLiteデータベースを読み書きするMySQLストレージエンジン](https://laysakura.github.io/2014/02/18/mysqlite/)
-            - [MySQL 5.6 で動くストレージエンジン・テンプレート](https://laysakura.github.io/2013/02/10/mysql5.6-storage-engine-template/)
-    - **SQLite**: 習熟度高
-    - **PostgreSQL**: 習熟度？
-        - 運用・利用経験は少ないが、エクステンション作成は経験あり:
-            - [RustでPostgreSQLのエクステンションを開発するためのフレームワーク pgx を使った暗号AVG実装](https://github.com/LayerXcom/anonify/pull/621)
+- [IPA未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/2012/2012_1/gaiyou/s-3.html) (2012)
+    - "High Performance SQLite": SQLiteに対し、適応的プリアロケーションとハッシュ値によるGROUP-BYの手法を適用し、2.8倍の高速化を達成。
+- [ICTプログラミングコンテスト  DeNA賞](http://ictepc.jp/events/2011/110831_000113.php) (2012)
+    - "DDDFS (Dynamically-Duplicate Distributed File System)": 冗長性・レイテンシ低下を意図した広域分散分散ファイルの実装を2名で共同開発。
+
+### その他、アンオフィシャルな成果
+
+- 業務委託として、[Anonify](https://layerx.co.jp/labs/product/anonify) の開発や、それを利用した新プロダクトのためのリサーチ業務に従事。Anonifyへの自身のコントリビューション状況は[こちら](https://github.com/LayerXcom/anonify/pulls?q=is%3Apr+author%3Alaysakura)。リサーチ業務では、HPCや大規模データ処理の知見を活かし、論文調査やプロダクト構想のための技術調査を行っている。
+  - 関連技術: TEE (Intel SGX), 差分プライバシー, 仮名加工・匿名加工, 分散システム, Rust
+
+- Immutable Schema という、「既存レコードを破壊せず成功するDDL・DML」をメイン機能として備えたRDBMS [apllodb](https://github.com/apllodb/apllodb) の開発を業務委託として行っている。学芸員などアナログデータを持つ主体がアジャイルに情報整理・データ整理するツールの基盤として。会社様と要件のすり合わせや、事業ロードマップの確認を密に行いつつ、設計・実装は1名で担当。詳細は上記リポジトリのREADMEを参照のこと。
+  - 関連技術: RDBMS, 関係代数, Rust
+
+- [serde-encrypt](https://github.com/laysakura/serde-encrypt) という、Rustの暗号・シリアライズライブラリを開発している。Rustでは serde というシリアライズライブラリが広く使用され、他言語と比べると多くのデータ構造がシリアライズ可能である。serde-encrypt は、serde でシリアライズ可能なデータ構造なら何でもシンプルに公開鍵・共通鍵暗号化できるものとして作成している。
+  - 関連技術: 公開鍵暗号, 共通鍵暗号, シリアライゼーション, Rust
+
+- [MySQLite: SQLiteデータベースを読み書きするMySQLストレージエンジン](http://laysakura.github.io/20140218-MySQLite/) というのを実装し、成果発表。
+  - 関連技術: RDBMS, C
+
+- [Linux のスケジューリング調査と超低優先度プロセスの実装](https://laysakura.github.io/archives/page/3/#:~:text=%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82-,%E5%85%83PDF,-Linux%20Kernel)
+  - 関連技術: OS, スケジューラ, Linux Kernel, C
+
+- [真・SSEを使って8flops/clockを実現する](https://laysakura.github.io/2012/01/06/sse-8flops-clock/) という記事を書いた。SSEは（今はAVXに取って代わられた） x86_64 のSIMD命令セットだが、その理論性能である「単精度浮動小数での8flops/clock」の実現のためのノウハウ。
+  - 関連技術: SIMD, 最適化, C, x86_64
+
+- その他、以下の分野については定期的にトップカンファレンスの論文や仕様などチェックし、先端の知識を維持している。
+  - RDBMS, NewSQL, 分散データストア
+
+- また、以下の技術についてはフルスクラッチで実装した経験がある。
+  - RDBMS, OS, C(サブセット)言語コンパイラ, Python(サブセット)インタプリタ, CPU (FPGA x Verilogで、load/store, ALU程度の簡単な命令セットのもの)
+
+- 研究色は薄いが、Webサーバサイドアプリケーションやその基盤の開発・運用の経験も豊富。
+  - ソーシャルゲームのように高負荷・高頻度トランザクションのシステムの基幹部分を、インフラ層まで含めて高速・高信頼に作るための設計からリリースまでを行える。また、金融システムのように複雑なドメインに関しても、ドメインエキスパートと対話しながらモデリングし、それをクリーンアーキテクチャでコードに落とし込むことができる。更に、ソフトウェア開発に限らず、CI/CD基盤導入・改善やリリースフロー整備なども多数経験。
+  - 関連技術: Scala, Ruby, DDD, Clean Architecture, GitHub Actions, CircleCI, TravisCI
+
 
 ## スキルセット: プロジェクトマネージメント
 
@@ -175,13 +182,6 @@ Sakashoでは隔週のリリース毎に利用者にリリースノートを配�
 #### 工学部電気電子工学科 (2010/04 - 2012/03)
 #### 理科I類 (2008/04 - 2010/03)
 
-## 表彰など
-
-- [IPA未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/2012/2012_1/gaiyou/s-3.html) (2012)
-    - "High Performance SQLite": SQLiteに対し、適応的プリアロケーションとハッシュ値によるGROUP-BYの手法を適用し、2.8倍の高速化を達成。
-- [ICTプログラミングコンテスト  DeNA賞](http://ictepc.jp/events/2011/110831_000113.php) (2012)
-    - "DDDFS (Dynamically-Duplicate Distributed File System)": 冗長性・レイテンシ低下を意図した広域分散分散ファイルの実装を2名で共同開発。
-
 ## 保有資格
 
 - 認定スクラムマスター
@@ -194,7 +194,6 @@ Sakashoでは隔週のリリース毎に利用者にリリースノートを配�
 | ブログ   | https://laysakura.github.io        |
 | GitHub   | https://github.com/laysakura       |
 | Twitter  | https://twitter.com/laysakura      |
-| Qiita    | https://qiita.com/laysakura        |
 | Booklog  | https://booklog.jp/users/laysakura |
 
 ## 連絡先
