@@ -21,7 +21,7 @@
 - [IPA未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/2012/2012_1/gaiyou/s-3.html) (2012)
     - "High Performance SQLite": SQLiteに対し、適応的プリアロケーションとハッシュ値によるGROUP-BYの手法を適用し、2.8倍の高速化を達成。
 - [ICTプログラミングコンテスト  DeNA賞](http://ictepc.jp/events/2011/110831_000113.php) (2012)
-    - "DDDFS (Dynamically-Duplicate Distributed File System)": 冗長性・レイテンシ低下を意図した広域分散分散ファイルの実装を2名で共同開発。
+    - "DDDFS (Dynamically-Duplicate Distributed File System)": 冗長性・レイテンシ低下を意図した広域分散分散ファイルシステムの実装を2名で共同開発。
 
 ### その他、アンオフィシャルな成果
 
