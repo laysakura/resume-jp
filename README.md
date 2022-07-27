@@ -18,7 +18,7 @@
 
 ### 講演等
 
-- [ET & IoT West 2022 招待講演](https://f2ff.jp/introduction/6498?event_id=et-west-2022)
+- [ET & IoT West 2022 招待講演](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
   - IoT・車載機で動作するストリーム処理系SpringQLの紹介
 
 ### 表彰等
