@@ -9,8 +9,9 @@
 
 ### 学会発表等
 
+- **Sho Nakatani**. "Memory Efficient Stream Processing for IoT Devices." CCBDIoT2022
 - **中谷翔**, Ting Chen, 田浦健次朗, "ストリーミングデータを扱うワークフローの外部モジュールの扱いに着目した低遅延実行", SWoPP2013
-- Jun Nakashima, **Sho Nakatani**, and Kenjiro Taura, "Design and Implementation of a Customizable Work Stealing Scheduler", ROSS2013
+- Jun Nakashima, **Sho Nakatani**, and Kenjiro Taura. "Design and Implementation of a Customizable Work Stealing Scheduler." ROSS2013
 - 中島潤, **中谷翔**, 田浦健次朗, "スケジューリング方針をカスタマイズ可能な軽量スレッド処理系の提案", SWoPP2012
 - **中谷翔**, Ting Chen, 田浦健次朗, "ワークフローアプリケーション基盤としての並列DBの性能評価", SWoPP2012
 - **中谷翔**, 中島潤, 田浦健次朗, 近山隆, "再帰的に生成したタスクに対するデータ局所性を考慮するスケジューラの実装と評価", 情報処理学会 第74回全国大会
@@ -18,8 +19,7 @@
 
 ### 講演等
 
-- [ET & IoT West 2022 招待講演](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
-  - IoT・車載機で動作するストリーム処理系SpringQLの紹介
+- [ET & IoT West 2022 招待講演 "IoT・車載機で動作するストリーム処理系SpringQLの紹介"](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
 
 ### 表彰等
 
