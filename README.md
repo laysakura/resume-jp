@@ -9,7 +9,7 @@
 
 ### 学会発表等
 
-- **Sho Nakatani**. "Memory Efficient Stream Processing for IoT Devices." CCBDIoT2022
+- **Sho Nakatani**. "Memory Efficient Stream Processing for IoT Devices." IEEE, 2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT 2022)
 - **中谷翔**, Ting Chen, 田浦健次朗, "ストリーミングデータを扱うワークフローの外部モジュールの扱いに着目した低遅延実行", SWoPP2013
 - Jun Nakashima, **Sho Nakatani**, and Kenjiro Taura. "Design and Implementation of a Customizable Work Stealing Scheduler." ROSS2013
 - 中島潤, **中谷翔**, 田浦健次朗, "スケジューリング方針をカスタマイズ可能な軽量スレッド処理系の提案", SWoPP2012
@@ -27,6 +27,10 @@
     - "High Performance SQLite": SQLiteに対し、適応的プリアロケーションとハッシュ値によるGROUP-BYの手法を適用し、2.8倍の高速化を達成。
 - [ICTプログラミングコンテスト  DeNA賞](http://ictepc.jp/events/2011/110831_000113.php) (2012)
     - "DDDFS (Dynamically-Duplicate Distributed File System)": 冗長性・レイテンシ低下を意図した広域分散分散ファイルシステムの実装を2名で共同開発。
+
+### 発表等
+
+- [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/)主催。発表多数
 
 ### その他、アンオフィシャルな成果
 
@@ -91,6 +95,7 @@
 #### コネクティッド先行開発部 / 主幹 / Principal Researcher (2021/09 - )
 
 - 車載機〜クラウドにおける、データのセンサリングから分析までのデータフロー・データ基盤の研究開発
+  - [SpringQL](https://github.com/SpringQL/SpringQL)のOSS開発(author)
 - コネクティッドカンパニーの先端技術戦略
 
 ### [Idein株式会社](https://idein.jp/) (2020/03 - 2021/08)
