@@ -88,7 +88,7 @@
 
 ## 職務経歴・学歴
 
-副業先は特別に許可をとっていない限り非公開。本業の経歴を記載。
+複業先は特別に許可をとっていない限り非公開。本業の経歴を記載。
 
 ### [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) (2021/09 - )
 
@@ -97,6 +97,11 @@
 - 車載機〜クラウドにおける、データのセンサリングから分析までのデータフロー・データ基盤の研究開発
   - [SpringQL](https://github.com/SpringQL/SpringQL)のOSS開発(author)
 - コネクティッドカンパニーの先端技術戦略
+
+
+### [株式会社Scalar](https://scalar-labs.com/) (2022/12 - )
+
+- [Scalar DB](https://github.com/scalar-labs/scalardb/) の開発（業務委託）
 
 ### [Idein株式会社](https://idein.jp/) (2020/03 - 2021/08)
 
