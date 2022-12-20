@@ -9,7 +9,7 @@
 
 ### 学会発表等
 
-- **Sho Nakatani**. "Memory Efficient Stream Processing for IoT Devices." IEEE, 2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT 2022)
+- **Sho Nakatani**, "Memory Efficient Stream Processing for IoT Devices," 2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT), 2022, pp. 129-139, doi: 10.1109/ADMIT57209.2022.00029.
 - **中谷翔**, Ting Chen, 田浦健次朗, "ストリーミングデータを扱うワークフローの外部モジュールの扱いに着目した低遅延実行", SWoPP2013
 - Jun Nakashima, **Sho Nakatani**, and Kenjiro Taura. "Design and Implementation of a Customizable Work Stealing Scheduler." ROSS2013
 - 中島潤, **中谷翔**, 田浦健次朗, "スケジューリング方針をカスタマイズ可能な軽量スレッド処理系の提案", SWoPP2012
