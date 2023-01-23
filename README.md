@@ -101,7 +101,7 @@
 
 ### [株式会社Scalar](https://scalar-labs.com/) (2022/12 - )
 
-- [Scalar DB](https://github.com/scalar-labs/scalardb/) の開発（業務委託）
+- [ScalarDB](https://github.com/scalar-labs/scalardb/) の開発（業務委託）
 
 ### [Idein株式会社](https://idein.jp/) (2020/03 - 2021/08)
 
