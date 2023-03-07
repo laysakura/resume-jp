@@ -100,7 +100,7 @@
 
 - 車載機〜クラウドにおける、データのセンサリングから分析までのデータフロー・データ基盤の研究開発
   - [SpringQL](https://github.com/SpringQL/SpringQL)のOSS開発(author)
-  - Culvert (E2E秘密計算ストリーム処理) の開発
+  - Culvert (E2E秘密計算ストリーム処理) の研究
 - コネクティッドカンパニーの先端技術戦略
 
 ### [株式会社Scalar](https://scalar-labs.com/) (2022/12 - )
