@@ -5,13 +5,17 @@
 ## スキルセット: ソフトウェア研究開発
 
 大学・大学院の専門は分散並列処理。大学院修了以降もプライベートの時間や副業などで研究開発活動を継続。2021/09からはトヨタ自動車株式会社にてデータベース・ストリーム処理・秘密計算などの研究。
-他、OSなど低レイヤなシステム全般が興味。コンピュータサイエンスに関する分野は一通り抑えている。
+他、OSなど低レイヤなシステム全般が興味。コンピュータサイエンスに関する分野は一通り押さえている。
 
-### 学会発表等
+### 査読付国際学会発表
 
 - **Sho Nakatani**, "Memory Efficient Stream Processing for IoT Devices," 2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT), 2022, pp. 129-139, doi: 10.1109/ADMIT57209.2022.00029.
-- **中谷翔**, Ting Chen, 田浦健次朗, "ストリーミングデータを扱うワークフローの外部モジュールの扱いに着目した低遅延実行", SWoPP2013
 - Jun Nakashima, **Sho Nakatani**, and Kenjiro Taura. "Design and Implementation of a Customizable Work Stealing Scheduler." ROSS2013
+
+### 国内学会発表
+
+- **中谷翔**, "End-to-end 秘密計算ストリーム処理の構想", 第15回データ工学と情報マネジメントに関するフォーラム (DEIM2023)
+- **中谷翔**, Ting Chen, 田浦健次朗, "ストリーミングデータを扱うワークフローの外部モジュールの扱いに着目した低遅延実行", SWoPP2013
 - 中島潤, **中谷翔**, 田浦健次朗, "スケジューリング方針をカスタマイズ可能な軽量スレッド処理系の提案", SWoPP2012
 - **中谷翔**, Ting Chen, 田浦健次朗, "ワークフローアプリケーション基盤としての並列DBの性能評価", SWoPP2012
 - **中谷翔**, 中島潤, 田浦健次朗, 近山隆, "再帰的に生成したタスクに対するデータ局所性を考慮するスケジューラの実装と評価", 情報処理学会 第74回全国大会
@@ -96,8 +100,8 @@
 
 - 車載機〜クラウドにおける、データのセンサリングから分析までのデータフロー・データ基盤の研究開発
   - [SpringQL](https://github.com/SpringQL/SpringQL)のOSS開発(author)
+  - Culvert (E2E秘密計算ストリーム処理) の開発
 - コネクティッドカンパニーの先端技術戦略
-
 
 ### [株式会社Scalar](https://scalar-labs.com/) (2022/12 - )
 
