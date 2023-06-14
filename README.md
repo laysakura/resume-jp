@@ -24,6 +24,7 @@
 ### 講演等
 
 - [ET & IoT West 2022 招待講演 "IoT・車載機で動作するストリーム処理系SpringQLの紹介"](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
+- [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) (2023)
 
 ### 表彰等
 
@@ -32,7 +33,7 @@
 - [ICTプログラミングコンテスト  DeNA賞](http://ictepc.jp/events/2011/110831_000113.php) (2012)
     - "DDDFS (Dynamically-Duplicate Distributed File System)": 冗長性・レイテンシ低下を意図した広域分散分散ファイルシステムの実装を2名で共同開発。
 
-### 発表等
+### その他発表等
 
 - [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/)主催。発表多数
 
