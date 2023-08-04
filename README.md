@@ -207,6 +207,7 @@ Sakashoでは隔週のリリース毎に利用者にリリースノートを配�
 ### [株式会社Scalar](https://scalar-labs.com/) (2022/12 - 2023/05)
 
 - [ScalarDB](https://github.com/scalar-labs/scalardb/) の開発
+  - SQLiteサポートの設計開発 ([PR Times](https://prtimes.jp/main/html/rd/p/000000037.000037795.html))
 
 ### 東京大学 (2008/04 - 2014/03)
 
