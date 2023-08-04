@@ -100,9 +100,11 @@
 #### コネクティッド先行開発部 / 主幹 / Principal Researcher (2021/09 - )
 
 - 車載機〜クラウドにおける、データのセンサリングから分析までのデータフロー・データ基盤の研究開発
-  - [SpringQL](https://github.com/SpringQL/SpringQL)のOSS開発(author)
+  - [SpringQL](https://github.com/SpringQL/SpringQL) (車載機・IoT機器向けストリーム処理系) のOSS開発(author)
+    - Rust SDK対応のため、[Apache Beam](https://beam.apache.org/)のRust SDK開発コミュニティを主導 ([開発repo](https://github.com/laysakura/beam))
   - Culvert (E2E秘密計算ストリーム処理) の研究
-- コネクティッドカンパニーの先端技術戦略
+- コネクティッドカンパニーの先端技術戦略（カンパニーフェロー付）
+- 新規プラットフォーム事業企画開発
 
 ### [株式会社Scalar](https://scalar-labs.com/) (2022/12 - )
 
