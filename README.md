@@ -91,9 +91,7 @@
 
 ある会社様にコーチングした際の資料: [開発プロセス・スケジューリング基礎](https://docs.google.com/document/d/1qo_CV2dmYtQbSdlE51hbtYOsBXQCy4vHLKpYfcapDqA)
 
-## 職務経歴・学歴
-
-複業先は特別に許可をとっていない限り非公開。本業の経歴を記載。
+## 職務経歴 (本業)
 
 ### [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) (2021/09 - )
 
@@ -105,10 +103,6 @@
   - Culvert (E2E秘密計算ストリーム処理) の研究
 - コネクティッドカンパニーの先端技術戦略（カンパニーフェロー付）
 - 新規プラットフォーム事業企画開発
-
-### [株式会社Scalar](https://scalar-labs.com/) (2022/12 - )
-
-- [ScalarDB](https://github.com/scalar-labs/scalardb/) の開発（業務委託）
 
 ### [Idein株式会社](https://idein.jp/) (2020/03 - 2021/08)
 
@@ -203,6 +197,16 @@ Sakashoでは隔週のリリース毎に利用者にリリースノートを配�
 
 リリース前のアプリはApple StoreやGoogle Playで公開配信することはできない。一方、アプリはWebからダウンロード・インストールできる形にしておかなければ、QAや実機確認を行う多数の端末で一々USBケーブルを繋いでインストールせねばならず、大変な時間的コストとなる。それを解決するため、 [DeployGate](https://deploygate.com) のようなアプリ配信基盤Webサービスを社内で開発・運用してた。DeployGateとは異なり、iOSアプリのインストールに必須である署名も全てサーバサイドで透過的に行えるシステムになっていて、iOSアプリのインストールの時短に貢献。2015年10月からチームリーダー。
 
+## 職務経歴 (兼業)
+
+### [株式会社 Eukarya](https://eukarya.io/ja/) (2020/02 -)
+
+- Web地図エンジンの研究調査・開発
+- [apllodb](https://github.com/apllodb/apllodb) の研究開発 (author)
+
+### [株式会社Scalar](https://scalar-labs.com/) (2022/12 - 2023/05)
+
+- [ScalarDB](https://github.com/scalar-labs/scalardb/) の開発
 
 ### 東京大学 (2008/04 - 2014/03)
 
