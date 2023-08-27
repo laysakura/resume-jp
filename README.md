@@ -35,7 +35,7 @@
 
 ### CTF (Capture The Flag) コンテスト
 
-- [Project SEKAI CTF 2023](https://ctf.sekai.team/): 146th/981チーム (1人チーム)
+- [Project SEKAI CTF 2023](https://ctf.sekai.team/): `laysakura`チーム (1名) - 146th/981チーム
 - 常設オンラインコンテスト:
   - [picoCTF account](https://play.picoctf.org/users/laysakura)
   - [ksnctf](https://ksnctf.sweetduet.info/) account: `laysakura`
