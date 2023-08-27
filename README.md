@@ -33,6 +33,13 @@
 - [ICTプログラミングコンテスト  DeNA賞](http://ictepc.jp/events/2011/110831_000113.php) (2012)
     - "DDDFS (Dynamically-Duplicate Distributed File System)": 冗長性・レイテンシ低下を意図した広域分散分散ファイルシステムの実装を2名で共同開発。
 
+### CTF (Capture The Flag) コンテスト
+
+- [Project SEKAI CTF 2023](https://ctf.sekai.team/): 146th/981チーム (1人チーム)
+- 常設オンラインコンテスト:
+  - [picoCTF account](https://play.picoctf.org/users/laysakura)
+  - [ksnctf](https://ksnctf.sweetduet.info/) account: `laysakura`
+
 ### その他発表等
 
 - [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/)主催。発表多数
