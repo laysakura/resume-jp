@@ -38,6 +38,7 @@
 [CTFtimeアカウント](https://ctftime.org/team/263940)
 
 - [Project SEKAI CTF 2023](https://ctf.sekai.team/): `laysakura`チーム (1名) - 146th/981チーム
+  - [自分が書いたwriteup](https://www.notion.so/laysakura/SekaiCTF-2023-ee49b36f77844e0686706d51c8dbfea0)（解答までの道筋）
 - 常設オンラインコンテスト:
   - [picoCTF account](https://play.picoctf.org/users/laysakura)
   - [ksnctf](https://ksnctf.sweetduet.info/) account: `laysakura`
