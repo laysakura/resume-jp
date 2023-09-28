@@ -21,10 +21,15 @@
 - **中谷翔**, 中島潤, 田浦健次朗, 近山隆, "再帰的に生成したタスクに対するデータ局所性を考慮するスケジューラの実装と評価", 情報処理学会 第74回全国大会
 (学生奨励賞，推奨卒業論文認定)
 
+### 特許
+
+- [特開2023-123074](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2023-123074/BFD656E32EDA71C923CDEEE9F4752E05CD598DCF81B6753D0CE409068E61FEF9/11/ja)
+    - メモリ消費量提言を優先目的としたストリーム処理のタスクスケジューリング
+
 ### 講演等
 
-- [ET & IoT West 2022 招待講演 "IoT・車載機で動作するストリーム処理系SpringQLの紹介"](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
 - [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) ([講演動画](https://www.youtube.com/watch?v=RRhMp6jZm2g)) (2023)
+- [ET & IoT West 2022 招待講演 "IoT・車載機で動作するストリーム処理系SpringQLの紹介"](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
 
 ### 表彰等
 
