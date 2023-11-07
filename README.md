@@ -40,6 +40,11 @@
 - セキュリティ＆プログラミングキャンプ2010 プログラミングコースLinux組 修了 (2010)
     - ファイル削除のシステムコールに応じ、ファイルの中身を数度0埋め上書きするようなカーネル層のファイルシステムを開発。
 
+### 保有資格（技術関連）
+
+- Burp Suite Certified Practitioner ([certification](https://portswigger.net/web-security/e/c/e1cf57a668f5d8a7))
+- 統計検定2級
+
 ### CTF (Capture The Flag) コンテスト
 
 [CTFtimeアカウント](https://ctftime.org/user/170559)
@@ -73,9 +78,6 @@
 - [真・SSEを使って8flops/clockを実現する](https://laysakura.github.io/2012/01/06/sse-8flops-clock/) という記事を書いた。SSEは（今はAVXに取って代わられた） x86_64 のSIMD命令セットだが、その理論性能である「単精度浮動小数での8flops/clock」の実現のためのノウハウ。
   - 関連技術: SIMD, 最適化, C, x86_64
 
-- その他、以下の分野については定期的にトップカンファレンスの論文や仕様などチェックし、先端の知識を維持している。
-  - RDBMS, NewSQL, 分散データストア
-
 - また、以下の技術についてはフルスクラッチで実装した経験がある。
   - RDBMS, ストリーム処理系, OS, C(サブセット)言語コンパイラ, Python(サブセット)インタプリタ, CPU (FPGA x Verilogで、load/store, ALU程度の簡単な命令セットのもの)
 
@@ -107,16 +109,15 @@
 
 ある会社様にコーチングした際の資料: [開発プロセス・スケジューリング基礎](https://docs.google.com/document/d/1qo_CV2dmYtQbSdlE51hbtYOsBXQCy4vHLKpYfcapDqA)
 
-## 職務経歴 (本業)
+## 職務経歴
 
-### [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) (2021/09 - )
-
-#### コネクティッド先行開発部 / 主幹 / Principal Researcher (2021/09 - )
+### [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) / 主幹 / Principal Researcher (2021/09 - )
 
 - 車載機〜クラウドにおける、データのセンサリングから分析までのデータフロー・データ基盤の研究開発
   - [SpringQL](https://github.com/SpringQL/SpringQL) (車載機・IoT機器向けストリーム処理系) のOSS開発(author)
     - Rust SDK対応のため、[Apache Beam](https://beam.apache.org/)のRust SDK開発コミュニティを主導 ([開発repo](https://github.com/laysakura/beam))
   - Culvert (E2E秘密計算ストリーム処理) の研究
+- 社内データのプライバシー保護に関する事項
 - コネクティッドカンパニーの先端技術戦略（カンパニーフェロー付）
 - 新規プラットフォーム事業企画開発
 
@@ -214,17 +215,9 @@ Sakashoでは隔週のリリース毎に利用者にリリースノートを配�
 
 リリース前のアプリはApple StoreやGoogle Playで公開配信することはできない。一方、アプリはWebからダウンロード・インストールできる形にしておかなければ、QAや実機確認を行う多数の端末で一々USBケーブルを繋いでインストールせねばならず、大変な時間的コストとなる。それを解決するため、 [DeployGate](https://deploygate.com) のようなアプリ配信基盤Webサービスを社内で開発・運用してた。DeployGateとは異なり、iOSアプリのインストールに必須である署名も全てサーバサイドで透過的に行えるシステムになっていて、iOSアプリのインストールの時短に貢献。2015年10月からチームリーダー。
 
-## 職務経歴 (兼業)
+## 兼業実績
 
-### [株式会社 Eukarya](https://eukarya.io/ja/) (2020/02 -)
-
-- Web地図エンジンの研究調査・開発
-- [apllodb](https://github.com/apllodb/apllodb) の研究開発 (author)
-
-### [株式会社Scalar](https://scalar-labs.com/) (2022/12 - 2023/05)
-
-- [ScalarDB](https://github.com/scalar-labs/scalardb/) の開発
-  - SQLiteサポートの設計開発 ([PR Times](https://prtimes.jp/main/html/rd/p/000000037.000037795.html))
+複数社で秘密計算・差分プライバシー・データベース・Web地図エンジンなどの研究調査・開発実績あり。
 
 ### 東京大学 (2008/04 - 2014/03)
 
@@ -233,13 +226,10 @@ Sakashoでは隔週のリリース毎に利用者にリリースノートを配�
 #### 工学部電気電子工学科 (2010/04 - 2012/03)
 #### 理科I類 (2008/04 - 2010/03)
 
-## 保有資格
+## 保有資格（非技術関連; 技術関連は別途上述）
 
-- Burp Suite Certified Practitioner ([certification](https://portswigger.net/web-security/e/c/e1cf57a668f5d8a7))
 - 認定スクラムマスター
 - 証券外務員一種・二種
-- 統計検定2級
-
 
 ## 各種ID
 
