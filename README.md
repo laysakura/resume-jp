@@ -54,6 +54,13 @@
 - [Project SEKAI CTF 2023](https://ctf.sekai.team/) (2023/08): `laysakura`チーム (1名) - 146th/981チーム
   - [自分が書いたwriteup](https://www.notion.so/laysakura/SekaiCTF-2023-ee49b36f77844e0686706d51c8dbfea0)
 
+### 脆弱性関連情報の届出(CVE, 件数)
+
+[IPAによる脆弱性関連情報の届出受付制度](https://www.ipa.go.jp/security/todokede/vuln/uketsuke.html)に基づく届け出について:
+
+-  ソフトウエア製品脆弱性関連情報
+-  ウェブアプリケーション脆弱性関連情報: 1件
+
 ### その他発表等
 
 - [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/)主催。発表多数
