@@ -36,6 +36,8 @@
 
 ### 表彰等
 
+- トヨタ自動車株式会社 コネクティッド先行開発部 特許表彰2位 (2023)
+    - 部における発明提案数の表彰
 - [IPA未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/2012/2012_1/gaiyou/s-3.html) (2012)
     - "High Performance SQLite": SQLiteに対し、適応的プリアロケーションとハッシュ値によるGROUP-BYの手法を適用し、2.8倍の高速化を達成。
 - [ICTプログラミングコンテスト  DeNA賞](http://ictepc.jp/events/2011/110831_000113.php) (2012)
