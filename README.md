@@ -29,6 +29,8 @@
 - [特開2023-123074](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2023-123074/BFD656E32EDA71C923CDEEE9F4752E05CD598DCF81B6753D0CE409068E61FEF9/11/ja)
     - メモリ消費量低減を優先目的としたストリーム処理のタスクスケジューリング
 
+その他出願前特許6件。
+
 ### 講演等
 
 - [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) ([講演動画](https://www.youtube.com/watch?v=RRhMp6jZm2g)) (2023)
