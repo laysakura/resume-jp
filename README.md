@@ -31,6 +31,10 @@
 
 その他出願前特許6件。
 
+### 書籍
+
+- 『n月刊ラムダノート』Vol.4 No.1（2024）: 「手を動かして学ぶストリーム処理入門」 （中谷翔）
+
 ### 講演等
 
 - [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) ([講演動画](https://www.youtube.com/watch?v=RRhMp6jZm2g)) (2023)
