@@ -74,7 +74,8 @@
 
 ### その他発表等
 
-- [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/)主催。発表多数
+- [〜そのイメージ、本当に信頼できますか？〜 CVE-2024-21626 でホストのrootを奪取する](https://docs.google.com/presentation/d/e/2PACX-1vRkoysMWPYk633s3DxKL9liSkmuCOIffWtjqRl8ZWN5zs5L7VL8THMMLyPDhsDoTHrQuGyDM78ppXik/pub?start=false&loop=false&delayms=60000&slide=id.g28ebd8cccd6_0_79) (2024)
+- [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/) 主催。発表多数
 
 ### その他、アンオフィシャルな成果
 
