@@ -6,9 +6,9 @@
 
 専門はサイバーセキュリティ・プライバシーテック・データベース・ストリーム処理など。コンピュータサイエンスに関する分野は一通り押さえている。
 
-2021/09からはトヨタ自動車株式会社にてAIセキュリティ・秘密計算・ストリーム処理などの研究、車両データプライバシー保護施策、新規プラットフォーム事業の企画開発。
+現在はトヨタ自動車株式会社にてAIセキュリティ・車両データプライバシー保護施策・新規プラットフォーム事業の企画開発（プロダクト責任者兼開発責任者）。
 
-業務委託でセキュリティコンサルティング事業。余暇活動でもセキュリティ活動 (CTF参加, 脆弱性報告)。
+兼業でセキュリティスタートアップでのプロダクト開発・セキュリティコンサルティング事業。余暇活動でもセキュリティ活動 (CTF参加, 脆弱性報告)。
 
 ### 査読付国際学会発表
 
@@ -75,14 +75,14 @@
 ### その他発表等
 
 - [〜そのイメージ、本当に信頼できますか？〜 CVE-2024-21626 でホストのrootを奪取する](https://docs.google.com/presentation/d/e/2PACX-1vRkoysMWPYk633s3DxKL9liSkmuCOIffWtjqRl8ZWN5zs5L7VL8THMMLyPDhsDoTHrQuGyDM78ppXik/pub?start=false&loop=false&delayms=60000&slide=id.g28ebd8cccd6_0_79) (2024)
-- [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/) 主催。発表多数
+- [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/) (2022-2023) 主催。発表多数
 
 ### その他、アンオフィシャルな成果
 
 - 業務委託として、[Anonify](https://layerx.co.jp/labs/product/anonify) の開発や、それを利用した新プロダクトのためのリサーチ業務に従事。Anonifyへの自身のコントリビューション状況は[こちら](https://github.com/LayerXcom/anonify/pulls?q=is%3Apr+author%3Alaysakura)。リサーチ業務では、HPCや大規模データ処理の知見を活かし、論文調査やプロダクト構想のための技術調査を行っている。
   - 関連技術: TEE (Intel SGX), 差分プライバシー, 仮名加工・匿名加工, 分散システム, Rust
 
-- Immutable Schema という、「既存レコードを破壊せず成功するDDL・DML」をメイン機能として備えたRDBMS [apllodb](https://github.com/apllodb/apllodb) の開発を業務委託として行っている。学芸員などアナログデータを持つ主体がアジャイルに情報整理・データ整理するツールの基盤として。会社様と要件のすり合わせや、事業ロードマップの確認を密に行いつつ、設計・実装は1名で担当。詳細は上記リポジトリのREADMEを参照のこと。
+- Immutable Schema という、「既存レコードを破壊せず成功するDDL・DML」をメイン機能として備えたRDBMS [apllodb](https://github.com/apllodb/apllodb) の開発を業務委託として行った。学芸員などアナログデータを持つ主体がアジャイルに情報整理・データ整理するツールの基盤として。会社様と要件のすり合わせや、事業ロードマップの確認を密に行いつつ、設計・実装は1名で担当。詳細は上記リポジトリのREADMEを参照のこと。
   - 関連技術: RDBMS, 関係代数, Rust
 
 - [serde-encrypt](https://github.com/laysakura/serde-encrypt) という、Rustの暗号・シリアライズライブラリを開発。Rustでは serde というシリアライズライブラリが広く使用され、他言語と比べると多くのデータ構造がシリアライズ可能である。serde-encrypt は、serde でシリアライズ可能なデータ構造なら何でもシンプルに公開鍵・共通鍵暗号化できるものとして作成している。
@@ -127,14 +127,20 @@
 
 ### [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) / 主幹 / Principal Researcher (2021/09 - )
 
+#### 社会システムPF開発部InfoTech-AS (2023/10 - )
+
+- AIセキュリティに関する研究開発
+- 社内データのプライバシー保護に関する事項
+- (継続) 新規プラットフォーム事業企画開発（プロダクト責任者兼開発責任者）
+
+#### コネクティッドカンパニー コネクティッド先行開発部InfoTech (2021/09 - 2023/09)
+
+- コネクティッドカンパニーの先端技術戦略（カンパニーフェロー付）
 - 車載機〜クラウドにおける、データのセンサリングから分析までのデータフロー・データ基盤の研究開発
   - [SpringQL](https://github.com/SpringQL/SpringQL) (車載機・IoT機器向けストリーム処理系) のOSS開発(author)
     - Rust SDK対応のため、[Apache Beam](https://beam.apache.org/)のRust SDK開発コミュニティを主導 ([開発repo](https://github.com/laysakura/beam))
   - Culvert (E2E秘密計算ストリーム処理) の研究
-- AIセキュリティに関する研究開発
-- 社内データのプライバシー保護に関する事項
-- コネクティッドカンパニーの先端技術戦略（カンパニーフェロー付）
-- 新規プラットフォーム事業企画開発
+- 新規プラットフォーム事業企画開発（プロダクト責任者兼開発責任者）
 
 ### [Idein株式会社](https://idein.jp/) (2020/03 - 2021/08)
 
