@@ -62,8 +62,6 @@
   - [自分が書いたwriteup](https://laysakura.github.io/2024/02/26/vlc-cybercontest-2024/)
 - [SunshineCTF 2023](https://2023.sunshinectf.org) (2023/10): `laysakura`チーム (1名) - 46th/821チーム
   - [writeup代わりのツイート](https://twitter.com/laysakura/status/1711490632471187918)
-- [Project SEKAI CTF 2023](https://ctf.sekai.team/) (2023/08): `laysakura`チーム (1名) - 146th/981チーム
-  - [自分が書いたwriteup](https://www.notion.so/laysakura/SekaiCTF-2023-ee49b36f77844e0686706d51c8dbfea0)
 
 ### 脆弱性関連情報の届出(CVE, JVN)
 
