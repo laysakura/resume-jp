@@ -218,10 +218,13 @@ Webセキュリティ対策についても、脆弱性診断結果を受けて�
 
 ## 業務委託実績
 
+- セキュリティプロダクト開発
+  - 株式会社Flatt Security
 - セキュリティコンサルティング
   - 社労士事務所N
     - [SECURITY ACTION (二つ星)](https://www.ipa.go.jp/security/security-action/sa/index.html) 導入支援
     - [情報セキュリティ自社診断](https://www.ipa.go.jp/security/guide/sme/5minutes.html)に基づく改善策提案・導入
+    - 業務IT環境のセキュリティ施策企画・導入・運用
 - ソフトウェア研究開発
   - 複数社で秘密計算・差分プライバシー・データベース・Web地図エンジンなどの研究調査・開発実績あり。
 
