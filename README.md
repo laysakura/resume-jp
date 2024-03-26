@@ -58,6 +58,7 @@
 
 ### CTF (Capture The Flag) コンテスト
 
+- picoCTF 2024 (2024/03): `laysakura`チーム (1名) - 72nd/6954チーム
 - 防衛省サイバーコンテスト 2024 (2024/02): `laysakura` - 7th/450人 (個人戦)
   - [自分が書いたwriteup](https://laysakura.github.io/2024/02/26/vlc-cybercontest-2024/)
 - [SunshineCTF 2023](https://2023.sunshinectf.org) (2023/10): `laysakura`チーム (1名) - 46th/821チーム
