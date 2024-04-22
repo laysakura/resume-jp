@@ -74,6 +74,8 @@
 
 ### その他発表等
 
+- [XZ UtilsのSWサプライチェーンとOSSエコシステムの話 (Secure Liaison By Secure旅団)](https://podcasters.spotify.com/pod/show/secure-fm/episodes/XZ-UtilsSWOSS-e2iieds) (2024)
+  - @ken5scal 氏主催のPodcastにゲスト出演。LinuxとOSSを中心としたエコシステムにおけるサイバーセキュリティがいたちごっこになっていることを指摘し、オルタナティブなエコシステムの一端を提案
 - [〜そのイメージ、本当に信頼できますか？〜 CVE-2024-21626 でホストのrootを奪取する](https://docs.google.com/presentation/d/e/2PACX-1vRkoysMWPYk633s3DxKL9liSkmuCOIffWtjqRl8ZWN5zs5L7VL8THMMLyPDhsDoTHrQuGyDM78ppXik/pub?start=false&loop=false&delayms=60000&slide=id.g28ebd8cccd6_0_79) (2024)
 - [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/) (2022-2023) 主催。発表多数
 
