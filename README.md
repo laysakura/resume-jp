@@ -8,7 +8,7 @@
 
 現在はトヨタ自動車株式会社にてAIセキュリティと車両データプライバシー保護施策（Principal Researcher）・新規プラットフォーム事業の企画開発（プロダクト責任者兼開発責任者）。
 
-兼業で、セキュリティスタートアップでのプロダクト開発と、独立でセキュリティコンサルティング事業。余暇活動でもセキュリティ活動 (CTF参加, 脆弱性報告)。
+兼業で、セキュリティスタートアップでのプロダクト開発と、独立でセキュリティコンサルティング事業。余暇活動でもセキュリティ活動 (CTF, OffSec, 脆弱性報告)。
 
 ### 査読付国際学会発表
 
@@ -53,6 +53,7 @@
 
 ### 保有資格（技術関連）
 
+- OffSec Certified Professional (OSCP; [certification](https://www.credential.net/26442b60-a814-4472-90cf-9f93fea97fc9#gs.aybfuc))
 - Burp Suite Certified Practitioner ([certification](https://portswigger.net/web-security/e/c/e1cf57a668f5d8a7))
 - 統計検定2級
 
