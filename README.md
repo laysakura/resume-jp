@@ -42,6 +42,12 @@
 
 ### 表彰等
 
+- picoCTF 2024 (2024/03): `laysakura`チーム (1名) - 72位/6954チーム
+  - [自分が書いたwriteup](https://laysakura.github.io/2024/03/27/picoctf-2024/)
+- 防衛省サイバーコンテスト 2024 (2024/02): `laysakura` - 7位/450人 (個人戦)
+  - [自分が書いたwriteup](https://laysakura.github.io/2024/02/26/vlc-cybercontest-2024/)
+- [SunshineCTF 2023](https://2023.sunshinectf.org) (2023/10): `laysakura`チーム (1名) - 46位/821チーム
+  - [writeup代わりのツイート](https://twitter.com/laysakura/status/1711490632471187918)
 - トヨタ自動車株式会社 コネクティッド先行開発部 特許表彰2位 (2023)
     - 部における発明提案数の表彰
 - [IPA未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/2012/2012_1/gaiyou/s-3.html) (2012)
@@ -56,15 +62,6 @@
 - OffSec Certified Professional (OSCP; [certification](https://www.credential.net/26442b60-a814-4472-90cf-9f93fea97fc9#gs.aybfuc))
 - Burp Suite Certified Practitioner ([certification](https://portswigger.net/web-security/e/c/e1cf57a668f5d8a7))
 - 統計検定2級
-
-### CTF (Capture The Flag) コンテスト
-
-- picoCTF 2024 (2024/03): `laysakura`チーム (1名) - 72nd/6954チーム
-  - [自分が書いたwriteup](https://laysakura.github.io/2024/03/27/picoctf-2024/)
-- 防衛省サイバーコンテスト 2024 (2024/02): `laysakura` - 7th/450人 (個人戦)
-  - [自分が書いたwriteup](https://laysakura.github.io/2024/02/26/vlc-cybercontest-2024/)
-- [SunshineCTF 2023](https://2023.sunshinectf.org) (2023/10): `laysakura`チーム (1名) - 46th/821チーム
-  - [writeup代わりのツイート](https://twitter.com/laysakura/status/1711490632471187918)
 
 ### 脆弱性関連情報の届出(CVE, JVN)
 
