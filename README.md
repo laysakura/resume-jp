@@ -60,9 +60,9 @@
 
 ### 保有資格（技術関連）
 
-- CISSP (登録中)
 - OffSec Certified Professional (OSCP; [certification](https://www.credential.net/26442b60-a814-4472-90cf-9f93fea97fc9#gs.aybfuc))
-- Burp Suite Certified Practitioner ([certification](https://portswigger.net/web-security/e/c/e1cf57a668f5d8a7))
+- CISSP (登録中)
+- Burp Suite Certified Practitioner (BSCP; [certification](https://portswigger.net/web-security/e/c/e1cf57a668f5d8a7))
 - 情報処理安全確保支援士(合格)
 - 統計検定2級
 
