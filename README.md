@@ -43,17 +43,13 @@
 
 ### 表彰等
 
-- picoCTF 2024 (2024/03): `laysakura`チーム (1名) - 72位/6954チーム
-  - [自分が書いたwriteup](https://laysakura.github.io/2024/03/27/picoctf-2024/)
-- 防衛省サイバーコンテスト 2024 (2024/02): `laysakura` - 7位/450人 (個人戦)
-  - [自分が書いたwriteup](https://laysakura.github.io/2024/02/26/vlc-cybercontest-2024/)
+- picoCTF 2024 (2024/03): `laysakura`チーム (1名) - 72位/6954チーム ([writeup](https://laysakura.github.io/2024/03/27/picoctf-2024/))
+- 防衛省サイバーコンテスト 2024 (2024/02): `laysakura` - 7位/450人 (個人戦) ([writeup](https://laysakura.github.io/2024/02/26/vlc-cybercontest-2024/))
 - [SunshineCTF 2023](https://2023.sunshinectf.org) (2023/10): `laysakura`チーム (1名) - 46位/821チーム
-  - [writeup代わりのツイート](https://twitter.com/laysakura/status/1711490632471187918)
 - トヨタ自動車株式会社 コネクティッド先行開発部 特許表彰2位 (2023)
-    - 部における発明提案数の表彰
 - [IPA未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/2012/2012_1/gaiyou/s-3.html) (2012)
     - "High Performance SQLite": SQLiteに対し、適応的プリアロケーションとハッシュ値によるGROUP-BYの手法を適用し、2.8倍の高速化を達成。
-- [ICTプログラミングコンテスト  DeNA賞](http://ictepc.jp/events/2011/110831_000113.php) (2012)
+- ICTプログラミングコンテスト  DeNA賞 (2012)
     - "DDDFS (Dynamically-Duplicate Distributed File System)": 冗長性・レイテンシ低下を意図した広域分散分散ファイルシステムの実装を2名で共同開発。
 - セキュリティ＆プログラミングキャンプ2010 プログラミングコースLinux組 修了 (2010)
     - ファイル削除のシステムコールに応じ、ファイルの中身を数度0埋め上書きするようなカーネル層のファイルシステムを開発。
