@@ -120,8 +120,8 @@
 - コネクティッドカンパニーの先端技術戦略（カンパニーフェロー付）
 - 車載機〜クラウドにおける、データのセンサリングから分析までのデータフロー・データ基盤の研究開発
   - [SpringQL](https://github.com/SpringQL/SpringQL) (車載機・IoT機器向けストリーム処理系) のOSS開発(author)
-    - Rust SDK対応のため、[Apache Beam](https://beam.apache.org/)のRust SDK開発コミュニティを主導 ([開発repo](https://github.com/laysakura/beam))
-  - Culvert (E2E秘密計算ストリーム処理) の研究
+    - Rust SDK対応のため、[Apache Beam](https://beam.apache.org/)のRust SDK開発コミュニティを主導
+  - E2E秘密計算ストリーム処理の研究
 - 新規プラットフォーム事業企画開発（プロダクト責任者兼開発責任者）
 
 ### [Idein株式会社](https://idein.jp/) (2020/03 - 2021/08)
