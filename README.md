@@ -80,7 +80,7 @@
 
 - DID/VC
   - VC-API仕様ドラフトの和訳・解説（[ブログ記事](https://laysakura.github.io/2024/07/19/vc-api-v0.3/)）
-  - VC-API仕様ドラフトへの意見・提案（[GitHub Issue](https://github.com/w3c-ccg/vc-api/issues/created_by/laysakura)）
+  - VC-API仕様ドラフトへの意見・提案（[GitHub Issue]([https://github.com/w3c-ccg/vc-api/issues/created_by/laysakura](https://github.com/w3c-ccg/vc-api/issues?q=author%3Alaysakura))）
 
 - Rust OSS開発
   - [trie-rs](https://github.com/laysakura/trie-rs): トライ木に基づく文字列検索ライブラリ。簡潔データ構造の自作ライブラリ、[louds-rs](https://github.com/laysakura/louds-rs) と [fid-rs](https://github.com/laysakura/fid-rs) をベースに開発しており、省メモリかつ高速なのがウリ。
