@@ -196,8 +196,7 @@ Webセキュリティ対策についても、脆弱性診断結果を受けて�
 
 ## 業務委託実績
 
-- セキュリティプロダクト開発
-  - 株式会社Flatt Security
+- クラウドセキュリティプロダクト開発
 - IT・セキュリティコンサルティング (顧問)
   - 社労士事務所
     - [SECURITY ACTION (二つ星)](https://www.ipa.go.jp/security/security-action/sa/index.html) 導入支援
