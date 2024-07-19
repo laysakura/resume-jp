@@ -4,9 +4,9 @@
 
 ## スキルセット: サイバーセキュリティ・ソフトウェア研究開発
 
-専門はサイバーセキュリティ・プライバシーテック・データベース・ストリーム処理など。コンピュータサイエンスに関する分野は一通り押さえている。
+専門はセキュリティ&プライバシー（技術寄り）・認証技術・データベース・ストリーム処理など。コンピュータサイエンスに関する分野は一通り押さえている。
 
-現在はトヨタ自動車株式会社にて車両データプライバシー保護施策（Principal Researcher）・新規プラットフォーム事業の企画開発（プロダクト責任者兼開発責任者）。
+現在はトヨタ自動車株式会社にてデータプライバシー保護施策（Principal Researcher）・新規プラットフォーム事業の企画開発（プロダクト責任者兼開発責任者）。
 
 兼業で、セキュリティスタートアップでのプロダクト開発と、独立でセキュリティコンサルティング事業。余暇活動でもセキュリティ活動 (CTF, OffSec, 脆弱性報告)。
 
@@ -76,22 +76,22 @@
 - [〜そのイメージ、本当に信頼できますか？〜 CVE-2024-21626 でホストのrootを奪取する](https://docs.google.com/presentation/d/e/2PACX-1vRkoysMWPYk633s3DxKL9liSkmuCOIffWtjqRl8ZWN5zs5L7VL8THMMLyPDhsDoTHrQuGyDM78ppXik/pub?start=false&loop=false&delayms=60000&slide=id.g28ebd8cccd6_0_79) (2024)
 - [Streaming Systems輪読会](https://read-streaming-systems.connpass.com/) (2022-2023) 主催。発表多数
 
-### その他、アンオフィシャルな成果
+### その他活動
 
-- 業務委託として、[Anonify](https://layerx.co.jp/labs/product/anonify) の開発や、それを利用した新プロダクトのためのリサーチ業務に従事。リサーチ業務では、HPCや大規模データ処理の知見を活かし、論文調査やプロダクト構想のための技術調査を行った。
-  - 関連技術: TEE (Intel SGX), 差分プライバシー, 仮名加工・匿名加工, 分散システム, Rust
+- DID/VC
+  - VC-API仕様ドラフトの和訳・解説（[ブログ記事](https://laysakura.github.io/2024/07/19/vc-api-v0.3/)）
+  - VC-API仕様ドラフトへの意見・提案（[GitHub Issue](https://github.com/w3c-ccg/vc-api/issues/created_by/laysakura)）
 
-- [serde-encrypt](https://github.com/laysakura/serde-encrypt) という、Rustの暗号・シリアライズライブラリを開発。Rustでは serde というシリアライズライブラリが広く使用され、他言語と比べると多くのデータ構造がシリアライズ可能である。serde-encrypt は、serde でシリアライズ可能なデータ構造なら何でもシンプルに公開鍵・共通鍵暗号化できるものとして作成している。
-  - 関連技術: 公開鍵暗号, 共通鍵暗号, シリアライゼーション, Rust
+- Rust OSS開発
+  - [trie-rs](https://github.com/laysakura/trie-rs): トライ木に基づく文字列検索ライブラリ。簡潔データ構造の自作ライブラリ、[louds-rs](https://github.com/laysakura/louds-rs) と [fid-rs](https://github.com/laysakura/fid-rs) をベースに開発しており、省メモリかつ高速なのがウリ。
+  - [serde-encrypt](https://github.com/laysakura/serde-encrypt): Rustの暗号・シリアライズライブラリを開発。Rustでは serde というシリアライズライブラリが広く使用され、他言語と比べると多くのデータ構造がシリアライズ可能である。serde-encrypt は、serde でシリアライズ可能なデータ構造なら何でもシンプルにハイブリッド暗号方式でやり取りできるものとして作成している。
+  - [SpringQL](https://github.com/SpringQL/SpringQL): IoT機器での動作を想定したストリーム処理系。
+  - [apllodb](https://github.com/apllodb/apllodb): RDBMS。DDLに際してレコードの更新・削除を一切不要とする特殊なセマンティクスを持つ実験的なもの。
 
-- [MySQLite: SQLiteデータベースを読み書きするMySQLストレージエンジン](http://laysakura.github.io/20140218-MySQLite/) というのを実装し、成果発表。
-  - 関連技術: RDBMS, C
-
-- [Linux のスケジューリング調査と超低優先度プロセスの実装](https://laysakura.github.io/archives/page/3/#:~:text=%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82-,%E5%85%83PDF,-Linux%20Kernel)
-  - 関連技術: OS, スケジューラ, Linux Kernel, C
-
-- [真・SSEを使って8flops/clockを実現する](https://laysakura.github.io/2012/01/06/sse-8flops-clock/) という記事を書いた。SSEは（今はAVXに取って代わられた） x86_64 のSIMD命令セットだが、その理論性能である「単精度浮動小数での8flops/clock」の実現のためのノウハウ。
-  - 関連技術: SIMD, 最適化, C, x86_64
+- 学生時代の諸々
+  - [MySQLite: SQLiteデータベースを読み書きするMySQLストレージエンジン](http://laysakura.github.io/20140218-MySQLite/) というのを実装し、成果発表。
+  - [Linux のスケジューリング調査と超低優先度プロセスの実装](https://laysakura.github.io/archives/page/3/#:~:text=%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82-,%E5%85%83PDF,-Linux%20Kernel)
+  - [真・SSEを使って8flops/clockを実現する](https://laysakura.github.io/2012/01/06/sse-8flops-clock/): SSEは（今はAVXに取って代わられた） x86_64 のSIMD命令セットだが、その理論性能である「単精度浮動小数での8flops/clock」の実現のためのノウハウ。
 
 - また、以下の技術についてはフルスクラッチで実装した経験がある。
   - RDBMS, ストリーム処理系, OS, C(サブセット)言語コンパイラ, Python(サブセット)インタプリタ, CPU (FPGA x Verilogで、load/store, ALU程度の簡単な命令セットのもの)
