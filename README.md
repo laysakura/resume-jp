@@ -62,13 +62,6 @@
 - 情報処理安全確保支援士(合格)
 - 統計検定2級
 
-### 脆弱性関連情報の届出(CVE, JVN)
-
-[IPAによる脆弱性関連情報の届出受付制度](https://www.ipa.go.jp/security/todokede/vuln/uketsuke.html)に基づく届け出について:
-
--  ソフトウエア製品脆弱性関連情報: 4件届け出中
--  ウェブアプリケーション脆弱性関連情報: 1件届け出中
-
 ### その他発表等
 
 - [XZ UtilsのSWサプライチェーンとOSSエコシステムの話 (Secure Liaison By Secure旅団)](https://podcasters.spotify.com/pod/show/secure-fm/episodes/XZ-UtilsSWOSS-e2iieds) (2024)
@@ -78,9 +71,12 @@
 
 ### その他活動
 
-- DID/VC
+- DID/VC (アイデンティティ技術)
   - VC-API仕様ドラフトの和訳・解説（[ブログ記事](https://laysakura.github.io/2024/07/19/vc-api-v0.3/)）
-  - VC-API仕様ドラフトへの意見・提案（[GitHub Issue]([https://github.com/w3c-ccg/vc-api/issues/created_by/laysakura](https://github.com/w3c-ccg/vc-api/issues?q=author%3Alaysakura))）
+  - VC-API仕様ドラフトに関するW3Cへの意見・提案（[GitHub Issue]([https://github.com/w3c-ccg/vc-api/issues/created_by/laysakura](https://github.com/w3c-ccg/vc-api/issues?q=author%3Alaysakura))）
+  - https://github.com/laysakura/vc-issuer-mock
+  - Holder, Verifier実装者のためのIssuerのMockを開発中 ([vc-mock-issuer](https://github.com/laysakura/vc-issuer-mock))
+    - VCDM v2.0 に対応したコア実装がW3Cのテスト対象に追加された ([テストレポート](https://w3c.github.io/vc-data-model-2.0-test-suite/), [追加PR](https://github.com/w3c/vc-test-suite-implementations/pull/53))
 
 - Rust OSS開発
   - [trie-rs](https://github.com/laysakura/trie-rs): トライ木に基づく文字列検索ライブラリ。簡潔データ構造の自作ライブラリ、[louds-rs](https://github.com/laysakura/louds-rs) と [fid-rs](https://github.com/laysakura/fid-rs) をベースに開発しており、省メモリかつ高速なのがウリ。
