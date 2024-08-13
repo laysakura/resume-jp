@@ -43,9 +43,6 @@
 
 ### 表彰等
 
-- picoCTF 2024 (2024/03): `laysakura`チーム (1名) - 72位/6954チーム ([writeup](https://laysakura.github.io/2024/03/27/picoctf-2024/))
-- 防衛省サイバーコンテスト 2024 (2024/02): `laysakura` - 7位/450人 (個人戦) ([writeup](https://laysakura.github.io/2024/02/26/vlc-cybercontest-2024/))
-- [SunshineCTF 2023](https://2023.sunshinectf.org) (2023/10): `laysakura`チーム (1名) - 46位/821チーム
 - トヨタ自動車株式会社 コネクティッド先行開発部 特許表彰2位 (2023)
 - [IPA未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/2012/2012_1/gaiyou/s-3.html) (2012)
     - "High Performance SQLite": SQLiteに対し、適応的プリアロケーションとハッシュ値によるGROUP-BYの手法を適用し、2.8倍の高速化を達成。
@@ -61,6 +58,22 @@
 - CISSP ([certification](https://www.credly.com/badges/e319b081-8a4b-4d27-a3f3-7684ded1676b/public_url))
 - 情報処理安全確保支援士(合格)
 - 統計検定2級
+
+### CTF (Capture The Flag) 成績
+
+**出場したもの**
+
+| 出場時期 | コンテスト | チーム | 順位 | 特記 |
+|---------|---------|------|------|-----|
+| 2024/03 | picoCTF 2024 | `laysakura` チーム (1名) | 72位/6954チーム (上位1.0%) | [writeup](https://laysakura.github.io/2024/03/27/picoctf-2024/) |
+| 2024/02 | 防衛省サイバーコンテスト 2024 | `laysakura` (個人戦) | 7位/450人 (上位1.5%) | [writeup](https://laysakura.github.io/2024/02/26/vlc-cybercontest-2024/) |
+| 2023/10 | SunshineCTF 2023 | `laysakura` チーム (1名) | 46位/821チーム (上位5.6%) | |
+
+**後追いで解いたもの(個人)**
+
+| 解答時期 | コンテスト | 順位 | 特記 |
+|---------|---------|-----|-----|
+| 2024/08 | [Automotive CTF Season1](https://blockharbor.io/blog/from-garage-to-glory-the-rise-of-a-100k-automotive-capture-the-flag-challenge/) | 1位/1371人 (上位0.07%) | [writeup](https://laysakura.notion.site/Automotive-CTF-2023-Proving-Grounds-writeup-8428584750dc47e0bf83b92525eb1b4a) |
 
 ### その他発表等
 
