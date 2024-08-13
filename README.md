@@ -86,7 +86,7 @@
 
 - DID/VC (アイデンティティ技術)
   - VC-API仕様ドラフトの和訳・解説（[ブログ記事](https://laysakura.github.io/2024/07/19/vc-api-v0.3/)）
-  - VC-API仕様ドラフトに関するW3Cへの意見・提案（[GitHub Issue]([https://github.com/w3c-ccg/vc-api/issues/created_by/laysakura](https://github.com/w3c-ccg/vc-api/issues?q=author%3Alaysakura))）
+  - VC-API仕様ドラフトに関するW3Cへの意見・提案（[GitHub Issue](https://github.com/w3c-ccg/vc-api/issues?q=author%3Alaysakura)）
   - https://github.com/laysakura/vc-issuer-mock
   - Holder, Verifier実装者のためのIssuerのMockを開発中 ([vc-mock-issuer](https://github.com/laysakura/vc-issuer-mock))
     - VCDM v2.0 に対応したコア実装がW3Cのテスト対象に追加された ([テストレポート](https://w3c.github.io/vc-data-model-2.0-test-suite/), [追加PR](https://github.com/w3c/vc-test-suite-implementations/pull/53))
