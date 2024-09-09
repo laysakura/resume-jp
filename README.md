@@ -65,6 +65,7 @@
 
 | 出場時期 | コンテスト | チーム | 順位 | 特記 |
 |---------|---------|------|------|-----|
+| 2024/08 | Automotive CTF 2024 予選 | `TeamOne` チーム (5名) | 5位 / 382チーム (上位1.3%) | [writeup](https://laysakura.github.io/2024/09/09/automotive-ctf-2024-qual) |
 | 2024/03 | picoCTF 2024 | `laysakura` チーム (1名) | 72位/6954チーム (上位1.0%) | [writeup](https://laysakura.github.io/2024/03/27/picoctf-2024/) |
 | 2024/02 | 防衛省サイバーコンテスト 2024 | `laysakura` (個人戦) | 7位/450人 (上位1.5%) | [writeup](https://laysakura.github.io/2024/02/26/vlc-cybercontest-2024/) |
 | 2023/10 | SunshineCTF 2023 | `laysakura` チーム (1名) | 46位/821チーム (上位5.6%) | |
