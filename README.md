@@ -65,6 +65,7 @@
 
 | 出場時期 | コンテスト | チーム | 順位 | 特記 |
 |---------|---------|------|------|-----|
+| 2024/10 | Automotive CTF 2024 世界決勝 | `TeamOne` チーム (5名) | 4位 / 6チーム (上位60%) | [writeup]([https://laysakura.github.io/2024/09/14/automotive-ctf-2024-japan-final/](https://laysakura.github.io/2024/10/24/automotive-ctf-2024-world-final/)) |
 | 2024/09 | Automotive CTF 2024 日本決勝 | `TeamOne` チーム (5名) | 2位 / 5チーム (上位40%) | 世界大会進出決定; [writeup](https://laysakura.github.io/2024/09/14/automotive-ctf-2024-japan-final/) |
 | 2024/08 | Automotive CTF 2024 予選 | `TeamOne` チーム (5名) | 5位 / 382チーム (上位1.3%) | [writeup](https://laysakura.github.io/2024/09/09/automotive-ctf-2024-qual) |
 | 2024/03 | picoCTF 2024 | `laysakura` チーム (1名) | 72位/6954チーム (上位1.0%) | [writeup](https://laysakura.github.io/2024/03/27/picoctf-2024/) |
