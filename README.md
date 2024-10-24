@@ -88,7 +88,7 @@
 ### その他活動
 
 - 自動車セキュリティ
-  - Automotive CTF対策として、公知情報から確立した戦略や技法をまとめた記事 - [Automotive (自動車) セキュリティ](https://laysakura.notion.site/CTF-Automotive-car-vehicle-deca002ee9de42f89ba18ddcdb5c183a)
+  - Automotive CTF対策として、公知情報から確立した戦略や技法をまとめた記事 - [Automotive セキュリティ (Car Hacking)](https://laysakura.notion.site/CTF-Automotive-car-vehicle-deca002ee9de42f89ba18ddcdb5c183a)
 
 - DID/VC (アイデンティティ技術)
   - VCのセキュリティ的考慮事項をサーベイ（[ブログ記事](https://laysakura.github.io/2024/08/16/vc-security/)）
