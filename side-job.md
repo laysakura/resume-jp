@@ -1,7 +1,7 @@
+個人事業主としての活動です。事業内容に関連するご相談、常に募集中です。lay.sakura@gmail.com までお気軽にご連絡ください。
+
 - 屋号: Security & Development Lab
 - 職務経歴書: https://github.com/laysakura/resume-jp
-
-以下事業内容に関連するご相談、常に募集中です。lay.sakura@gmail.com までお気軽にご連絡ください。
 
 # 事業内容
 
