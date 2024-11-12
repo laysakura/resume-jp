@@ -1,6 +1,6 @@
 # 職務経歴書
 
-公開職務経歴書です。本業のほか、セキュリティ関係のご支援も行っております（[詳細](https://github.com/laysakura/resume-jp/blob/master/side-job.md)）。
+公開職務経歴書です。本業のほか、セキュリティ関係のご支援も行っております（[詳細]([https://github.com/laysakura/resume-jp/blob/master/side-job.md](https://github.com/laysakura/resume-jp/blob/master/security-development-lab.md))）。
 
 ## スキルセット: サイバーセキュリティ・ソフトウェア研究開発
 
