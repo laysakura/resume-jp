@@ -88,7 +88,7 @@
 
 ### その他発表等
 
-- [言語Sandbox環境の脆弱性とその真因の考察 - RestrictedPythonを題材に](https://laysakura.github.io/2024/12/17/RestrictedPython-CVE/) (2024)
+- [言語Sandbox環境の脆弱性とその真因の考察 - RestrictedPythonを題材に (Python Advent Calendar 2024)](https://laysakura.github.io/2024/12/17/RestrictedPython-CVE/) (2024)
 - [ソフトウェア研究における脅威モデリング（Cyber-sec+ Advent Calendar 2024）](https://laysakura.github.io/2024/12/02/threat-modeling-for-software-research/) (2024)
 - [XZ UtilsのSWサプライチェーンとOSSエコシステムの話 (Secure Liaison By Secure旅団)](https://podcasters.spotify.com/pod/show/secure-fm/episodes/XZ-UtilsSWOSS-e2iieds) (2024)
 - [〜そのイメージ、本当に信頼できますか？〜 CVE-2024-21626 でホストのrootを奪取する](https://docs.google.com/presentation/d/e/2PACX-1vRkoysMWPYk633s3DxKL9liSkmuCOIffWtjqRl8ZWN5zs5L7VL8THMMLyPDhsDoTHrQuGyDM78ppXik/pub?start=false&loop=false&delayms=60000&slide=id.g28ebd8cccd6_0_79) (2024)
