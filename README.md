@@ -1,6 +1,6 @@
 # 職務経歴書
 
-公開職務経歴書です。本業のほか、セキュリティ関係のご支援も行っております（[詳細](https://github.com/laysakura/Security-Development-Lab)）。
+中谷翔の公開職務経歴書です。本業のほか、セキュリティ関係のご支援も行っております（[詳細](https://github.com/laysakura/Security-Development-Lab)）。
 
 ## スキルセット: サイバーセキュリティ・ソフトウェア研究開発
 
