@@ -17,6 +17,7 @@
 
 ### 国内学会発表
 
+- 椎名峻平, **中谷翔**, 平岡 拓海, 田浦 健次朗, "PrivJail: 差分プライバシーを強制するPythonライブラリ", 第17回データ工学と情報マネジメントに関するフォーラム (DEIM2025)
 - **中谷翔**, "End-to-end 秘密計算ストリーム処理の構想", 第15回データ工学と情報マネジメントに関するフォーラム (DEIM2023)
 - **中谷翔**, Ting Chen, 田浦健次朗, "ストリーミングデータを扱うワークフローの外部モジュールの扱いに着目した低遅延実行", SWoPP2013
 - 中島潤, **中谷翔**, 田浦健次朗, "スケジューリング方針をカスタマイズ可能な軽量スレッド処理系の提案", SWoPP2012
@@ -43,7 +44,8 @@
 
 ### 講演等
 
-- [（台風により中止）セキュリティ・ミニキャンプ in 徳島 2024 "体得しよう！RSA暗号の原理と解読"](https://www.security-camp.or.jp/minicamp/tokushima2024.html) (2024)
+- [セキュリティ・ミニキャンプ in 大阪 2025 "体得しよう！RSA暗号の原理と解読"](https://www.security-camp.or.jp/minicamp/osaka2025.html) (2025/03)
+- [セキュリティ・キャンプフォーラム 2025 "AIエージェントによるペネトレーションテスト初期侵入全自動化の研究"](https://www.security-camp.or.jp/event/forum2025.html) (2025/03)
 - [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) ([講演動画](https://www.youtube.com/watch?v=RRhMp6jZm2g)) (2023)
 - [ET & IoT West 2022 招待講演 "IoT・車載機で動作するストリーム処理系SpringQLの紹介"](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
 
