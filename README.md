@@ -25,6 +25,10 @@
 - **中谷翔**, 中島潤, 田浦健次朗, 近山隆, "再帰的に生成したタスクに対するデータ局所性を考慮するスケジューラの実装と評価", 情報処理学会 第74回全国大会
 (学生奨励賞，推奨卒業論文認定)
 
+### プレプリント
+
+- **Sho Nakatani**, "RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents," 2025 arXiv, https://arxiv.org/abs/2502.16730
+
 ### 特許
 
 - [特開2024-115673](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-115673/11/ja)
