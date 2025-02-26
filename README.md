@@ -31,6 +31,8 @@
 
 ### 特許
 
+- [特開2024-163723](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-163723/11/ja)
+    - ブロックチェーンと暗号技術を用いてデータ交換とその完了記録をatomicに実施
 - [特開2024-115673](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-115673/11/ja)
     - 秘密計算での分散ストリーム処理
 - [特開2024-115935](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-115935/11/ja)
