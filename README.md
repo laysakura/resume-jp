@@ -50,7 +50,7 @@
 
 ### 講演等
 
-- [セキュリティ・ミニキャンプ in 大阪 2025 "体得しよう！RSA暗号の原理と解読"](https://www.security-camp.or.jp/minicamp/osaka2025.html) (2025/03)
+- [セキュリティ・ミニキャンプ in 大阪 2025 "体得しよう！RSA暗号の原理と解読"](https://www.security-camp.or.jp/minicamp/osaka2025.html) ([講義資料](https://speakerdeck.com/laysakura/ti-de-siyou-rsaan-hao-noyuan-li-tojie-du))  (2025/03)
 - [セキュリティ・キャンプフォーラム 2025 "AIエージェントによるペネトレーションテスト初期侵入全自動化の研究"](https://www.security-camp.or.jp/event/forum2025.html) (2025/03)
 - [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) ([講演動画](https://www.youtube.com/watch?v=RRhMp6jZm2g)) (2023)
 - [ET & IoT West 2022 招待講演 "IoT・車載機で動作するストリーム処理系SpringQLの紹介"](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
