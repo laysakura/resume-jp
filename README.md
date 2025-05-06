@@ -10,6 +10,14 @@
 
 個人事業主として、AIを活用した独自のペネトレーションテストツール研究開発、並びにセキュリティ関連企業でのセキュリティテストやプロダクト開発を実施。
 
+### カンファレンス登壇・講演
+
+- Black Hat USA 2025 – Arsenal "wish: An AI-Powered Natural Language Shell for Penetration Testing" (2025/08; Upcoming)
+- [セキュリティ・ミニキャンプ in 大阪 2025 "体得しよう！RSA暗号の原理と解読"](https://www.security-camp.or.jp/minicamp/osaka2025.html) ([講義資料](https://speakerdeck.com/laysakura/ti-de-siyou-rsaan-hao-noyuan-li-tojie-du))  (2025/03)
+- [セキュリティ・キャンプフォーラム 2025 "AIエージェントによるペネトレーションテスト初期侵入全自動化の研究"](https://www.security-camp.or.jp/event/forum2025.html) (2025/03)
+- [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) ([講演動画](https://www.youtube.com/watch?v=RRhMp6jZm2g)) (2023)
+- [ET & IoT West 2022 招待講演 "IoT・車載機で動作するストリーム処理系SpringQLの紹介"](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
+
 ### 査読付国際学会発表
 
 - **Sho Nakatani**, "Memory Efficient Stream Processing for IoT Devices," 2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT), 2022, pp. 129-139, doi: 10.1109/ADMIT57209.2022.00029.
@@ -25,7 +33,7 @@
 - **中谷翔**, 中島潤, 田浦健次朗, 近山隆, "再帰的に生成したタスクに対するデータ局所性を考慮するスケジューラの実装と評価", 情報処理学会 第74回全国大会
 (学生奨励賞，推奨卒業論文認定)
 
-### プレプリント
+### プレプリント論文
 
 - **Sho Nakatani**, "RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents," 2025 arXiv, https://arxiv.org/abs/2502.16730
 
@@ -47,13 +55,6 @@
 ### 書籍
 
 - 『n月刊ラムダノート』Vol.4 No.1（2024）: 「手を動かして学ぶストリーム処理入門」 （中谷翔）
-
-### 講演等
-
-- [セキュリティ・ミニキャンプ in 大阪 2025 "体得しよう！RSA暗号の原理と解読"](https://www.security-camp.or.jp/minicamp/osaka2025.html) ([講義資料](https://speakerdeck.com/laysakura/ti-de-siyou-rsaan-hao-noyuan-li-tojie-du))  (2025/03)
-- [セキュリティ・キャンプフォーラム 2025 "AIエージェントによるペネトレーションテスト初期侵入全自動化の研究"](https://www.security-camp.or.jp/event/forum2025.html) (2025/03)
-- [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) ([講演動画](https://www.youtube.com/watch?v=RRhMp6jZm2g)) (2023)
-- [ET & IoT West 2022 招待講演 "IoT・車載機で動作するストリーム処理系SpringQLの紹介"](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
 
 ### 表彰等
 
