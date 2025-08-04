@@ -2,20 +2,18 @@
 
 中谷翔の公開職務経歴書です。
 
+## 現職
+
+- [株式会社SecDevLab](https://secdevlab.com/) 代表取締役CEO
+  - AIを活用した独自のペネトレーションテストツール研究開発。セキュリティテスト等のセキュリティサービス。
+
 ## スキルセット: AI活用・サイバーセキュリティ・ソフトウェア研究開発
 
 専門はセキュリティ&プライバシー技術・認証技術・データベース・ストリーム処理など。コンピュータサイエンスに関する分野は一通り押さえている（つもり）。
 
-現在は以下兼任。
-
-- [株式会社SecDevLab](https://secdevlab.com/) 代表取締役CEO
-  - AIを活用した独自のペネトレーションテストツール研究開発。セキュリティテスト等のセキュリティサービス。
-- トヨタ自動車株式会社 常勤嘱託（2025/09より非常勤嘱託） Principal Researcher
-  - プライバシー保護のためのプロダクト開発・セキュリティ評価・プライバシー保護施策など。
-
 ### カンファレンス登壇・講演
 
-- [Black Hat USA 2025 (Arsenal) "wish: An AI-Powered Natural Language Shell for Penetration Testing"](https://www.blackhat.com/us-25/arsenal/schedule/index.html#wish-an-ai-powered-natural-language-shell-for-penetration-testing-45171) (2025/08; Upcoming)
+- [Black Hat USA 2025 (Arsenal) "wish: An AI-Powered Natural Language Shell for Penetration Testing"](https://www.blackhat.com/us-25/arsenal/schedule/index.html#wish-an-ai-powered-natural-language-shell-for-penetration-testing-45171) (2025/08)
 - [セキュリティ・ミニキャンプ in 大阪 2025 "体得しよう！RSA暗号の原理と解読"](https://www.security-camp.or.jp/minicamp/osaka2025.html) ([講義資料](https://speakerdeck.com/laysakura/ti-de-siyou-rsaan-hao-noyuan-li-tojie-du))  (2025/03)
 - [セキュリティ・キャンプフォーラム 2025 "AIエージェントによるペネトレーションテスト初期侵入全自動化の研究"](https://www.security-camp.or.jp/event/forum2025.html) (2025/03)
 - [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) ([講演動画](https://www.youtube.com/watch?v=RRhMp6jZm2g)) (2023)
@@ -154,7 +152,7 @@
 
 事業内容は会社サイト参照。
 
-### [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) / 主幹 / Principal Researcher (2021/09 - 現在)
+### [トヨタ自動車株式会社](https://www.toyota-tokyo.tech/) / 主幹 / Principal Researcher (2021/09 - 2025/09)
 
 #### 社会システムPF開発部InfoTech-AS (2023/10 - )
 
