@@ -19,8 +19,9 @@
 - [Beam Summit 2023 "Developing (Experimental) Rust SDKs And A Beam Engine For IoT Devices"](https://beamsummit.org/sessions/2023/developing-experimental-rust-sdks-beam-engine-iot/) ([講演動画](https://www.youtube.com/watch?v=RRhMp6jZm2g)) (2023)
 - [ET & IoT West 2022 招待講演 "IoT・車載機で動作するストリーム処理系SpringQLの紹介"](https://f2ff.jp/introduction/6498?event_id=et-west-2022) (2022)
 
-### 査読付国際学会発表
+### 国際学会発表
 
+- Shumpei Shiina, **Sho Nakatani**, Takumi Hiraoka, Kenjiro Taura, "PrivJail: Enforcing Differential Privacy in Pythonic Data Processing," TPDP 2025
 - **Sho Nakatani**, "Memory Efficient Stream Processing for IoT Devices," 2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT), 2022, pp. 129-139, doi: 10.1109/ADMIT57209.2022.00029.
 - Jun Nakashima, **Sho Nakatani**, and Kenjiro Taura. "Design and Implementation of a Customizable Work Stealing Scheduler." ROSS2013
 
