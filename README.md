@@ -21,7 +21,7 @@
 
 ### 国際学会発表
 
-- Shumpei Shiina, **Sho Nakatani**, Takumi Hiraoka, Kenjiro Taura, "PrivJail: Enforcing Differential Privacy in Pythonic Data Processing," TPDP 2025
+- Shumpei Shiina, **Sho Nakatani**, Takumi Hiraoka, and Kenjiro Taura, "PrivJail: Enforcing Differential Privacy in Pythonic Data Processing," TPDP 2025
 - **Sho Nakatani**, "Memory Efficient Stream Processing for IoT Devices," 2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT), 2022, pp. 129-139, doi: 10.1109/ADMIT57209.2022.00029.
 - Jun Nakashima, **Sho Nakatani**, and Kenjiro Taura. "Design and Implementation of a Customizable Work Stealing Scheduler." ROSS2013
 
