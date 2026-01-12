@@ -265,6 +265,7 @@ Webセキュリティ対策についても、脆弱性診断結果を受けて�
 | ブログ   | https://laysakura.github.io        |
 | GitHub   | https://github.com/laysakura       |
 | X (Twitter)  | https://twitter.com/laysakura      |
+| Note  | https://note.com/laysakura      |
 | Booklog  | https://booklog.jp/users/laysakura |
 
 ## 連絡先
