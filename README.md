@@ -5,7 +5,7 @@
 ## 現職
 
 - [株式会社SecDevLab](https://secdevlab.com/) 代表取締役CEO
-  - AIを活用した独自のペネトレーションテストツール研究開発。セキュリティテスト等のセキュリティサービス。
+  - AIを活用した独自のペネトレーションテスト [「RapidPen」](https://secdevlab.com/rapidpen) の開発・提供
 
 ## スキルセット: AI活用・サイバーセキュリティ・ソフトウェア研究開発
 
