@@ -40,6 +40,10 @@
 
 - **Sho Nakatani**, "RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents," 2025 arXiv, https://arxiv.org/abs/2502.16730
 
+### 査読
+
+- IEEE Transactions on Emerging Topics in Computing (TETC), 2026
+
 ### 特許
 
 - [特許7819648](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-115673/11/ja)
