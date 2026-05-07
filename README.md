@@ -26,6 +26,10 @@
 - **Sho Nakatani**, "Memory Efficient Stream Processing for IoT Devices," 2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT), 2022, pp. 129-139, doi: 10.1109/ADMIT57209.2022.00029.
 - Jun Nakashima, **Sho Nakatani**, and Kenjiro Taura. "Design and Implementation of a Customizable Work Stealing Scheduler." ROSS2013
 
+### 国内論文誌
+
+- 椎名峻平, **中谷翔**, 平岡拓海, 田浦健次朗, "PrivJail: Enforcing Differential Privacy in Python," 日本データベース学会和文論文誌 (DBSJ Japanese Journal)
+
 ### 国内学会発表
 
 - 椎名峻平, **中谷翔**, 平岡 拓海, 田浦 健次朗, "PrivJail: 差分プライバシーを強制するPythonライブラリ", 第17回データ工学と情報マネジメントに関するフォーラム (DEIM2025)
