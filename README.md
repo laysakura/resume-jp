@@ -71,6 +71,11 @@
 
 - 『n月刊ラムダノート』Vol.4 No.1（2024）: 「手を動かして学ぶストリーム処理入門」 （中谷翔）
 
+### メディア出演
+
+- [TBS『CROSS DIG with Bloomberg』1on1 Tech にて Mythos 時代のサイバーセキュリティを解説](https://newsdig.tbs.co.jp/articles/withbloomberg/2662078) (2026/05)
+- [テレ東BIZ にて Mythos 時代のサイバーセキュリティを解説](https://txbiz.tv-tokyo.co.jp/original2/vod/post_340679) (2026/05)
+
 ### 表彰等
 
 - [PWS Cup 2024](https://www.iwsec.org/pws/2024/cup24.html) ベストアタック賞 / 総合7位 (2024)
