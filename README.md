@@ -49,18 +49,26 @@
 
 ### 特許
 
-- [特許7819648](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-115673/11/ja)
+- [特許7819648](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7819648/15/ja)
     - 秘密計算での分散ストリーム処理
+- [特許7861656](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7861656/15/ja)
+    - 秘密計算での分散処理
+- [特許7841440](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7841440/15/ja)
+    - 複数組織をまたぐデータ流通のため、プラットフォームがエンドユーザーの個人情報を得ず、かつ参加組織同士でのエンドユーザーのトラッキングを防止しつつ、データ流通のチケッティングを行う
+- [特開2026-119433](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2026-119433/11/ja)
+    - 差分プライバシーを保証する汎用プログラミング言語
+- [特開2026-119432](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2026-119432/11/ja)
+    - 差分プライバシーを保証するデータフレーム処理
+- [特開2026-007327](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2026-007327/11/ja)
+    - 複数組織をまたぐデータ流通のため、参加組織同士のユーザートラッキングを防ぐ技術
+- [特開2025-115332](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-115332/11/ja)
+    - エスクロー方式によるオンラインデータ流通
 - [特開2025-089067](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-089067/11/ja)
     - 時間的局所性に着目した低容量クラスタのためのデータ分散配置
 - [特開2024-163723](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-163723/11/ja)
     - ブロックチェーンと暗号技術を用いてデータ交換とその完了記録をatomicに実施
-- [特開2024-115935](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-115935/11/ja)
-    - 秘密計算での分散処理
 - [特開2024-127056](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-127056/11/ja)
     - 複数サービスをまたぐデータ流通のため、エンドユーザーのID連携の手間を削減
-- [特開2024-100252](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-100252/11/ja)
-    - 複数組織をまたぐデータ流通のため、プラットフォームがエンドユーザーの個人情報を得ず、かつ参加組織同士でのエンドユーザーのトラッキングを防止しつつ、データ流通のチケッティングを行う
 - [特開2023-123074](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2023-123074/BFD656E32EDA71C923CDEEE9F4752E05CD598DCF81B6753D0CE409068E61FEF9/11/ja)
     - メモリ消費量低減を優先目的としたストリーム処理のタスクスケジューリング
 - 特願2025-080819
@@ -72,6 +80,7 @@
 
 ### メディア出演
 
+- [TBS『CROSS DIG with Bloomberg』1on1 Tech にて Astra等のフロンティアモデルのサイバーセキュリティ能力・暴走報道の深堀りを解説](https://youtu.be/vtn-es-EEYY?si=feI-Vi7eBegT8Skb) (2026/08)
 - [TBS『CROSS DIG with Bloomberg』1on1 Tech にて Mythos 時代のサイバーセキュリティを解説](https://newsdig.tbs.co.jp/articles/withbloomberg/2662078) (2026/05)
 - [テレ東BIZ にて Mythos 時代のサイバーセキュリティを解説](https://txbiz.tv-tokyo.co.jp/original2/vod/post_340679) (2026/05)
 
