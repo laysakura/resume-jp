@@ -132,8 +132,6 @@
 
 ### その他活動
 
-- AIエージェントによる全自動ペネトレーションテストツール [**RapidPen**](https://rapidpen.webnode.jp/) 研究開発
-
 - 自動車セキュリティ
   - Automotive CTF対策として、公知情報から確立した戦略や技法をまとめた記事 - [自動車セキュリティ（カーハック）知見まとめ](https://laysakura.github.io/2024/10/25/automotive-security-notes/)
 
